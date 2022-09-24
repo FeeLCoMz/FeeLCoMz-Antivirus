@@ -1,0 +1,6 @@
+Brontok.A|Brontok.A.HVM31
+Brontok.A[16]|Brontok.A
+MyDoom|Savely Remove Hardware|%windir%\system32\explorer.exe
+Sky|iexplorer
+Pendekar Blank|Blom Tau
+Worm - Doc|Blom Tau
